@@ -81,28 +81,26 @@
 
 // 8-masalasi
 
-// let son = +prompt("son kiriting");
-// let result;
-// for(let i=2; i<son; i++ ){
-// if(i===0){
-// result=false;
+// let a = +prompt("son kiriting");
+// let sum=0;
+// let nbsoni=0;
+// for(let i = 1; i<=a; i++){
+// if (a%i==0) {
+
+//     sum+=i;
+// nbsoni++
+// } 
+
+// }
 // }
 
-// if (i<=son) {
-//     result=false;
-
-// }
-// result=true;
-// }
-
-// const num = 123;
-// if (num) {
- 
-   
+// if (nbsoni==2) {
+//    console.log(`${a} soni tub son`); 
+// } else{
+//     console.log(`${a} soni tub emas`); 
 // }
 
-// console.log(`tub son ${son}`);
-// console.log(`tub emas ${num}`);
+// console.log(sum);
 
 // for masalalari
 
